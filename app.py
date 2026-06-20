@@ -44,7 +44,6 @@ with st.sidebar:
     *Note: Visualizations are pre-computed based on the optimal Baseline Model (0.40562 RMSLE).*
     """)
     st.markdown("---")
-    st.caption("Developed by Senior Analyst")
 
 # --- Main Content ---
 st.title("Retail Sales Forecasting Dashboard")
